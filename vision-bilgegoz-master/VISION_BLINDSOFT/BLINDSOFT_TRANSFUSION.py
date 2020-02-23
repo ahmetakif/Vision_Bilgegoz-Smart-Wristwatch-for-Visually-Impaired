@@ -9,7 +9,7 @@
 # This code is specifically written for the Vision-Bilgegoz project by Ahmet Akif Kaya
 # and all rights of this program is owned by Ahmet Akif Kaya under MIT open source license. 
 # You are automatically accepting the terms of the MIT license by using this code in any way.
-# The terms and conditions about this project's MIT license can be found in the file named
+# The terms and conditions about this project's APACHE license can be found in the file named
 # "LICENSE" in the root directory of this repository.
 
 import os
