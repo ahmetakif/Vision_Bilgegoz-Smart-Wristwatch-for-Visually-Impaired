@@ -6,16 +6,29 @@ The fact that visually impaired are having difficulties in understanding their e
 
 # Innovative Aspects
 -Being the first system that can do object detection and text recognition at the same time.
+
 -Being the first device that detects the distance and the direction of the objects in addition to their definitions.
+
 -Being the first device in the shape of a wristwatch which helps visually disabled by giving them services like object detection and text reading.
+
 -Supporting hand coordination as being in the form of a wristwatch.
+
 -Not requiring any training or familiarization process, thanks to its capability of talking.
+
 -Having software that can maintain an information flow in a lot more advanced level with the machine learning techniques to the visually disabled.
+
 -Doing object detection using a model developed with Google’s rich machine learning platform Tensorflow and thus reaching accuracy rates up to 97%.
+
 -Ability to read texts with high accuracy in many different conditions using the Tesseract OCR software developed by Google.
+
 -Functioning in 4 different languages: Turkish, English, French, and German. And this can be increased.
+
 -Being the first blind assistive system under 100 TL. (~17$ June 2019)
+
 -Being made with easy production methods such as 3D printing.
+
 -Contributing to recycling as having an old cell phone battery.
+
 -Being able to reach everybody, including people with low socioeconomic levels, thanks to its low cost and easy production.
+
 -Being a cheap and capable system thanks to having a high-level software and being made with low-cost electronic components.
