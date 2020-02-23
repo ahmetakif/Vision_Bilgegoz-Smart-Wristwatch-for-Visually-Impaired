@@ -1,6 +1,6 @@
 ######## Picamera Object Detection Using Tensorflow Classifier #########
 #
-# Author: Evan Juras
+# Author: Ahmet Akif Kaya
 # Date: 4/15/18
 # Description:
 # This program uses a TensorFlow classifier to perform object detection.
@@ -9,7 +9,10 @@
 # the Picamera. It also can be used with a webcam by adding "--usbcam"
 # when executing this script from the terminal.
 
-## Some of the code is copied from Google's example at
+## Some of the code is copied from EjdeElectronics Tensorflow on Raspiberry Pi Library at
+## https://github.com/EdjeElectronics/TensorFlow-Object-Detection-on-the-Raspberry-Pi
+
+## and some of the code is copied from Google's example at
 ## https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb
 
 ## and some is copied from Dat Tran's example at
