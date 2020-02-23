@@ -1,7 +1,7 @@
 ######## USB Camera Object Detection Using Tensorflow Classifier for VISION-Bilgegoz #########
 #
 # Author: Ahmet Akif Kaya
-# Date: 4/15/18
+# Date: 2/10/19
 # Description:
 # This program uses a TensorFlow classifier to perform object detection.
 # For detecting the objects in the frame of the camera to be said vocally to the blind user.
