@@ -1,3 +1,11 @@
+######## VISION-Bilgegoz Soundeffects Python Script #########
+#
+# Author: Ahmet Akif Kaya
+# Date: 2/15/19
+# Description:
+# This program uses aplay function to play various souneffects of the device on boot.
+# The audio files are for explaining the device to the blind user.
+
 import os
 
 lang = "tr"
