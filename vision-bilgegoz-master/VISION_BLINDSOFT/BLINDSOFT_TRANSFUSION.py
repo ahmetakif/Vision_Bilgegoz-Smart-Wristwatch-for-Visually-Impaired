@@ -1,3 +1,14 @@
+######## VISION-Bilgegoz BLINDSOFT_TRANSFUSION #########
+#
+# Author: Ahmet Akif Kaya
+# Date: 2/25/19
+# Description:
+# This program is the main script of the Vision-Bilgegoz project
+# which does almost everything for the device.
+# This code is specifically written for the Vision-Bilgegoz project by Ahmet Akif Kaya
+# and all rights of this program is owned by Ahmet Akif Kaya under MIT open source license. 
+# You are automatically accepting the terms of the MIT license by using this code in any way.
+
 import os
 
 def classtransfer(classtotransfer,boxtotransfer,width,height,lang):
