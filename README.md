@@ -4,6 +4,7 @@ This is the project called Vision-Bilgegöz, which is a smart wristwatch for vis
 # Project Page:
 http://ahmetakifkaya.com/project/vision.html
 
+
 # Problem & Purpose
 The fact that visually impaired are having difficulties in understanding their environment, and the price/uselessness of present visually impaired systems is a huge problem today. The purpose of this project is developing a wristwatch sized, low-cost device that tells the objects and the text it has detected with the camera from the headphones in order to make the life of visually disabled easier.
 
