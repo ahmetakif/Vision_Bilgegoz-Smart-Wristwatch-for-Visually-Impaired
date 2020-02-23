@@ -1,3 +1,12 @@
+######## VISION-Bilgegoz Image Capturing for Optical Character Recognition with Tesseract OCR #########
+#
+# Author: Ahmet Akif Kaya
+# Date: 2/25/19
+# Description:
+# This program captures instant image from camera with OpenCV 
+# and transfers that image to Tesseract OCR library with command line
+# in order to make Optical Character Recognition and read texts for blind people.
+
 #run command on terminal libraries
 import subprocess
 import shlex
