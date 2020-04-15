@@ -40,3 +40,8 @@ The fact that visually impaired are having difficulties in understanding their e
 -Being able to reach everybody, including people with low socioeconomic levels, thanks to its low cost and easy production.
 
 -Being a cheap and capable system thanks to having a high-level software and being made with low-cost electronic components.
+
+# Library
+
+For this project, the Tensorflow library was used by modifying the android example of tensorflow library.
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android
