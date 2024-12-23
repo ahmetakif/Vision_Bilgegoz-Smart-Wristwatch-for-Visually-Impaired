@@ -1,9 +1,6 @@
 # Vision_Bilgegöz / Smart Wristwatch for Visually Impaired
 This is the project called Vision-Bilgegöz, which is a smart wristwatch for visually impaired that uses object detection, OCR and text to speech (TTS) for helping blind people.
 
-# Project Page:
-http://ahmetakifkaya.com/?page_id=87
-
 # Apk Here:
 https://drive.google.com/open?id=1llNogBt3ejSRzvASoW9z5EVmWFLSaGXr
 
